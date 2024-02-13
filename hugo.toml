@@ -1,4 +1,4 @@
 baseURL = 'https://gugitogerudens.github.io/'
 languageCode = 'ru-ru'
 title = 'Что-то вроде сайта-портфолио'
-theme = 'hugo-coder'
+theme = 'theme-ananke'
